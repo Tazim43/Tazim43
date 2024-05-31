@@ -1,4 +1,4 @@
-<h3 align="center"><span style="color:blue">Expert (1800+)</span> @ Codeforces | Competitive Programmer | MERN Stack Developer</h3>
+## Expert (1800+) @ Codeforces | Competitive Programmer | MERN Stack Developer
 <p align="left">
   <a href="https://codeforces.com/profile/The_crawler">
     <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=The_crawler" alt="Codeforces Rating" />
