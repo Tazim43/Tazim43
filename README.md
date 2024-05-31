@@ -1,14 +1,13 @@
-<h1 align="center">Hi there👋, I'm Md. Tazim Uddin</h1>
-<h3 align="center">Expert (1800+) @ Codeforces | Competitive Programmer | MERN Stack Developer</h3>
-<p>
-  A Computer Science and Engineering student at Patuakhali Science and Technology University🏫. Currently engaged in competitive programming💻 and learning some Dev stuff🚀.
-</p>
+<h3 align="center"><span style="color:blue">Expert (1800+)</span> @ Codeforces | Competitive Programmer | MERN Stack Developer</h3>
 <p align="left">
-
   <a href="https://codeforces.com/profile/The_crawler">
     <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=The_crawler" alt="Codeforces Rating" />
   </a>
 </p>
+<p>
+  I am pursuing my full-time B.Sc in Computer Science and Engineering at Patuakhali Science and Technology University🏫. Currently engaged in competitive programming💻 and learning some Dev stuff🚀.
+</p>
+
 
 ## CP Profiles
 <p float="left">
