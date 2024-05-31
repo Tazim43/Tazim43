@@ -3,7 +3,7 @@
   <a href="https://codeforces.com/profile/The_crawler">
     <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=The_crawler" alt="Codeforces Rating" />
   </a>
-  <a href="https://www.codechef.com/users/the_crawler">
+  <a href="https://www.codechef.com/users/the_crawler" style="margin-left: 10px">
     <img src="https://cp-logo.vercel.app/codechef/the_crawler" alt="Codechef Rating" />
   </a>
 </p>
