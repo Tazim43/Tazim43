@@ -6,7 +6,7 @@
   </a>
 </p>
 
-# Competitive Programming
+## CP Profiles
 <p float="left">
 <img height="205em" src="https://codeforces-readme-stats.vercel.app/api/card?username=The_crawler" /> 
 </p>
