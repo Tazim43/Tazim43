@@ -1,4 +1,12 @@
 ## Hi there 👋
+<p align="left">
 
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=The_crawler)
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=The_crawler)](https://codeforces.com/profile/The_crawler)
+  <a href="https://codeforces.com/profile/The_crawler">
+    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=The_crawler" alt="Codeforces Rating" />
+  </a>
+</p>
+
+# Competitive Programming
+<p float="left">
+<img height="205em" src="https://codeforces-readme-stats.vercel.app/api/card?username=The_crawler" /> 
+</p>
