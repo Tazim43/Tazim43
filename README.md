@@ -1,4 +1,4 @@
-## Expert (1800+) @ Codeforces | Competitive Programmer | MERN Stack Developer
+## Expert (1800+) @ Codeforces | Competitive Programmer | Full-Stack Developer
 <p align="left">
   <a href="https://codeforces.com/profile/The_crawler">
     <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=The_crawler" alt="Codeforces Rating" />
@@ -16,7 +16,7 @@
   I am pursuing my full-time B.Sc in Computer Science and Engineering at Patuakhali Science and Technology University🏫. Currently engaged in competitive programming💻 and learning some Dev stuff🚀.
 </p>
 
-## Total problem solved : 2300+ (CF-1746, CSES-117, At-138, CC-63, Others-250+)
+## Total problem solved : 2500+ (CF-1939, CSES-117, At-138, CC-63, Others-250+)
 
 ## CP Profiles
 <p float="left">
