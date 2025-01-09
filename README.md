@@ -1,4 +1,4 @@
-## Expert (1800+) @ Codeforces | Competitive Programmer | Full-Stack Developer
+## Expert (1850+) @ Codeforces | Competitive Programmer | Full-Stack Developer
 <p align="left">
   <a href="https://codeforces.com/profile/The_crawler">
     <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=The_crawler" alt="Codeforces Rating" />
