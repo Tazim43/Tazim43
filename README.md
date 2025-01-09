@@ -16,7 +16,7 @@
   I am pursuing my full-time B.Sc in Computer Science and Engineering at Patuakhali Science and Technology University🏫. Currently engaged in competitive programming💻 and learning some Dev stuff🚀.
 </p>
 
-## Total problem solved : 2500+ (CF-1939, CSES-117, At-138, CC-63, Others-250+)
+## Total problem solved : 2600+ (CF-2041, CSES-117, At-138, CC-63, Others-250+)
 
 ## CP Profiles
 <p float="left">
