@@ -20,32 +20,18 @@
 
 ## Competitive Programming Achievements  
 
-- **ICPC Asia West Continent Finalist 2025**  
-  **Team:** [PSTU : Returned From Breaking Point](https://icpc.global/ICPCID/JFVHJDTAJYI1)  
+| **Position**       | **Event**                                                         | **Team**                                                                 |
+|--------------------|-------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Honorable Mention  | ICPC Asia West Continent Final 2025                               | [PSTU: Returned From Breaking Point](https://icpc.global/ICPCID/JFVHJDTAJYI1) |
+| 8th                | MIAKI Presents KUET IUPC Onsite 2025                              | [PSTU_CENOTE](https://bapsoj.org/contests/miaki-presents-kuet-iupc-onsite-2025/standings) |
+| 28th               | ICPC Asia Dhaka Regional Contest 2024                             | [PSTU: Returned From Breaking Point](https://bapsoj.org/contests/icpc-asia-dhaka-regional-contest-2024-onsite-round/standings) |
+| 17th               | BUET Inter-University Programming Contest 2024                    | [PSTU: Returned From Breaking Point](https://toph.co/c/inter-university-buet-cse-fest-2024/standings?start=0) |
+| 18th               | 11th IUT National ICT Fest Programming Contest 2024               | [PSTU: Mooncalves](https://toph.co/c/iut-11th-national-ict-fest-2024/standings?start=0) |
+| 32nd               | Kite Games Presents Inter-University Programming Contest - SUST CSE Carnival 2024 | [PSTU: Mooncalves](https://toph.co/c/inter-university-sust-cse-carnival-2024/standings?start=0) |
+| Divisional Champion| ICPC Asia Dhaka Regional Contest 2023                             | [PSTU: Mooncalves](https://bapsoj.org/contests/icpc-dhaka-regional-site-2023/standings) |
+| 41st               | National Collegiate Programming Contest Onsite 2023               | [PSTU: Mooncalves](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) |
+| 14th               | CoU-BRACNet Inter-University Programming Contest 2023             | [PSTU: Mooncalves](https://toph.co/c/cou-bracnet-inter-university-2023/standings?start=0) |
 
-- **Ranked 8th, MIAKI Presents KUET IUPC Onsite 2025**  
-  **Team:** [PSTU_CENOTE](https://bapsoj.org/contests/miaki-presents-kuet-iupc-onsite-2025/standings)  
-
-- **Ranked 28th, ICPC Asia Dhaka Regional Contest 2024**  
-  **Team:** [PSTU : Returned From Breaking Point](https://bapsoj.org/contests/icpc-asia-dhaka-regional-contest-2024-onsite-round/standings)  
-
-- **Ranked 17th, BUET Inter University Programming Contest 2024**  
-  **Team:** [PSTU : Returned From Breaking Point](https://toph.co/c/inter-university-buet-cse-fest-2024/standings?start=0)  
-
-- **Ranked 18th, 11th IUT National ICT Fest Programming Contest 2024**  
-  **Team:** [PSTU : Mooncalves](https://toph.co/c/iut-11th-national-ict-fest-2024/standings?start=0)  
-
-- **Ranked 32nd, Kite Games Presents Inter University Programming Contest - SUST CSE Carnival 2024**  
-  **Team:** [PSTU : Mooncalves](https://toph.co/c/inter-university-sust-cse-carnival-2024/standings?start=0)  
-
-- **Divisional Champion (Barishal Division), ICPC Asia Dhaka Regional Contest 2023**  
-  **Team:** [PSTU : Mooncalves](https://bapsoj.org/contests/icpc-dhaka-regional-site-2023/standings)  
-
-- **Ranked 41st, National Collegiate Programming Contest Onsite 2023 Hosted by JU**  
-  **Team:** [PSTU : Mooncalves](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings)  
-
-- **Ranked 14th, CoU-BRACNet Inter University Programming Contest 2023**  
-  **Team:** [PSTU : Mooncalves](https://toph.co/c/cou-bracnet-inter-university-2023/standings?start=0)
 
 
 ## CP Profiles
