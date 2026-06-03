@@ -1,4 +1,4 @@
-## Expert (1850+) @ Codeforces | Competitive Programmer | Full-Stack Developer
+## Software Engineer @ Chaldal (YC S15) | ICPC Asia West Finalist | Expert (1850+) @ Codeforces | 5* (2134) @ Codechef
 <p align="left">
   <a href="https://codeforces.com/profile/The_crawler">
     <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=The_crawler" alt="Codeforces Rating" />
@@ -13,7 +13,7 @@
   </a>
 </p>
 <p>
-  I am pursuing my full-time B.Sc in Computer Science and Engineering at Patuakhali Science and Technology University🏫. Currently engaged in competitive programming💻 and learning some Dev stuff🚀.
+  Software Engineer with a strong background in problem-solving, currently working at Chaldal (YC S15) in the Experience and Operations Team, building and improving large-scale internal systems that support high-volume inventory, purchasing, and operational workflows.
 </p>
 
 ## Total Problems Solved: 2700+
